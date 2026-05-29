@@ -59,9 +59,9 @@ src/
 
 ## 📄 Licencia
 
-© 2025 Ana Bel. Todos los derechos reservados.  
+© 2026 Ana Is. Canton González. Todos los derechos reservados.  
 Este proyecto es de uso personal y educativo.
-EOF
+
 
 
 
