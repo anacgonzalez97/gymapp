@@ -5,7 +5,7 @@ Aplicación web multiplataforma para la gestión de un gimnasio de barrio.
 Desarrollada como proyecto de portfolio del ciclo formativo DAM.
 
 ## 🚀 Demo en vivo
-[Ver aplicación →](https://iron-gym-app.vercel.app)
+[Ver aplicación →](https://gymapp-bay-gamma.vercel.app)
 
 ## ✨ Funcionalidades
 
